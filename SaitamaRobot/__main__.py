@@ -79,16 +79,15 @@ Ada untuk membantai para parasit telegram.
 Dibuat khusus untuk membuat group anda tetap nyaman dan aman terkendali.
 Saya bukan manusia yang bisa puasin nafsumu, jangan salah gunakan!!
 ━─━─━─━─━─━─━─━─━─━─━
-▪**Managed with by:** [Master](https://t.me/yangtagtolol)
-•**Maintened with by : [WHO AM I](https://t.me/Hyoneechan)
-▪**Blog Gabut:** [Blogku](http://pramukapitumpanua.blogspot.com/)
+▪**Managed with by:** [LUTFI](https://t.me/yangtagtolol)
+▪**OWNER:** [MASTER](https://www.instagram.com/lutfifirmansyahh)
 ━─━─━─━─━─━─━─━─━─━─━
 Tekan /help untuk melihat daftar fitur saya.
 """
 
 HELP_STRINGS = """
 Hai! Nama saya adalah *{}*.
-Saya adalah manusia robot dengan beberapa kelebihan yang menyenangkan! Silahkan lihat berikut ini untuk beberapa ide dari \
+Saya adalah manusia robot yang dirancang oleh [LUTFI](https://www.instagram.com/lutfifirmansyahh dengan beberapa kelebihan yang menyenangkan! Silahkan lihat berikut ini untuk beberapa ide dari \
 hal-hal yang bisa saya bantu.
 *Perintah utama* yang tersedia:
  - /start: mulai bot
@@ -227,7 +226,7 @@ def start(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                text="☑️ Add Gua ke group",
+                                text="☑️ Add Saya ke group",
                                 url="t.me/{}?startgroup=true".format(
                                     context.bot.username
                                 ),
@@ -235,18 +234,18 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text="🔞 Group Chat",
-                                url=f"https://t.me/ParaRemajaAkhirZaman",
+                                text="🔞 GROUP RANDOM PEOPLE",
+                                url=f"https://t.me/etherealreborn",
                             ),
                             InlineKeyboardButton(
                                 text="🔔 Updates Channel",
-                                url="https://t.me/channelkamukita",
+                                url="https://t.me/ditokaiaja",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
-                                text=":) Channel Hiburan",
-                                url="https://t.me/MemesRpi",
+                                text="OWNER GAMTENK 😘",
+                                url="https://t.me/yangtagtolol",
                             )
                         ],
                         [
